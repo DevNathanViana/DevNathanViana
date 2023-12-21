@@ -10,6 +10,8 @@ Meu objetivo é evoluir continuamente como desenvolvedor, aprimorando minhas hab
 
 ### 💼 Habilidades Técnicas
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevNathanViana&layout=donut)
+<br/>
 - **Front-End:** JavaScript, React, HTML, CSS
 - **Conhecimentos em Back-End:** Tenho alguns conhecimentos em back-end, como Java, Spring e Thymeleaf que complementam minha expertise em front-end.
 - **Ferramentas e Outros Conhecimentos:** Git, GitHub e Bootstrap.
