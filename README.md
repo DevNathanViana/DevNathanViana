@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Desenvolvedor Front-End com um toque de Back-End
 
-Sou um entusiasta da tecnologia, apaixonado por criar experiências digitais que fazem a diferença. Atualmente, estou focado no desenvolvimento Front-End, trabalhando principalmente com JavaScript, React, HTML e CSS. Embora esteja no início da minha jornada profissional, estou sempre buscando aprender e crescer na área de desenvolvimento web.
+Sou um entusiasta da tecnologia, apaixonado por criar experiências digitais que fazem a diferença. Atualmente, estou focado no desenvolvimento Front-End, trabalhando principalmente com JavaScript, React, HTML e CSS. Estou dedicado ao aprendizado contínuo e ao desenvolvimento das minhas habilidades na área de desenvolvimento web, visando alcançar excelência profissional.
 
 ### 🌱 Crescendo a cada dia
 
@@ -15,6 +15,8 @@ Meu objetivo é evoluir continuamente como desenvolvedor, aprimorando minhas hab
 - **Front-End:** JavaScript, React, HTML, CSS
 - **Conhecimentos em Back-End:** Tenho alguns conhecimentos em back-end, como Java, Spring e Thymeleaf que complementam minha expertise em front-end.
 - **Ferramentas e Outros Conhecimentos:** Git, GitHub e Bootstrap.
+
+> "Escrever código é como compor música; cada linha deve harmonizar com a próxima para criar algo verdadeiramente belo."
 
 ### 🎵 Um pouco mais sobre mim
 
@@ -31,5 +33,4 @@ Meu objetivo é evoluir continuamente como desenvolvedor, aprimorando minhas hab
 
 ---
 
-> "Escrever código é como compor música; cada linha deve harmonizar com a próxima para criar algo verdadeiramente belo."
 
