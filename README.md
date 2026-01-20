@@ -1,17 +1,11 @@
-# Olá, eu sou o Nathan! ✌️
+## 👨‍💻 Desenvolvedor Back-End
 
-## 👨‍💻 Desenvolvedor Front-End
-
-Atualmente, estou focado no desenvolvimento Front-End, trabalhando principalmente com JavaScript, React, HTML e CSS. Estou dedicado ao aprendizado contínuo e ao desenvolvimento das minhas habilidades na área de desenvolvimento web, visando alcançar excelência profissional.
+Trabalhando principalmente com Java e Spring.
 
 ### 💼 Habilidades Técnicas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevNathanViana&layout=donut)
 <br/>
-- **Front-End:** JavaScript, HTML, CSS.
-- **FrameWorks:** Axios, React, Bootstrap, Vite.
-- **Ferramentas e Outros Conhecimentos:** Git e GitHub.
-> 
 ### 📫 Como entrar em contato comigo
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliveiranathan700@gmail.com)
